@@ -31,10 +31,10 @@ def gc_sentiment(text):
 # Twitter API credentials
 
 # Consumer keys and access tokens, used for OAuth
-consumer_key = 'KSCKqJdfHfIQR4MWkObCXtgWL'
-consumer_secret = 'fs2x0uS3Av3fRlKjsgrZSTxx8tLSCEVTYEasiGLclCuGTKPawG'
-access_token = '1210057938-EOSbP3tfYxeUKAxbB6oHhfB7c7axs9BbeL5HO1b'
-access_token_secret = 'hvUwOqugyft0TpOznuxBWZ2ZBAfKwwmo32AUfOEi0t3pg'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
  
 # Create the api endpoint
 
